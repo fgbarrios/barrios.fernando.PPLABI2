@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1621979104 source:c:\users\pc\desktop\proyectos_codeblocks\parciallabo\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1622027520 c:\users\pc\desktop\proyectos_codeblocks\parciallabo\validaciones.h
+
+1622038680 source:c:\users\pc\desktop\proyectos_codeblocks\parciallabo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"validaciones.h"
+	"datawarehouse.h"
+	"informes.h"
+
+1622038628 c:\users\pc\desktop\proyectos_codeblocks\parciallabo\funciones.h
+
+1622033581 source:c:\users\pc\desktop\proyectos_codeblocks\parciallabo\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"validaciones.h"
+	"informes.h"
+
+1622038448 c:\users\pc\desktop\proyectos_codeblocks\parciallabo\datawarehouse.h
+	"funciones.h"
+
+1622032246 source:c:\users\pc\desktop\proyectos_codeblocks\parciallabo\datawarehouse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawarehouse.h"
+	"funciones.h"
+
+1622038376 source:c:\users\pc\desktop\proyectos_codeblocks\parciallabo\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"informes.h"
+	"funciones.h"
+	"validaciones.h"
+
+1622038351 c:\users\pc\desktop\proyectos_codeblocks\parciallabo\informes.h
+	"funciones.h"
+
